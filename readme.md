@@ -1,3 +1,5 @@
+# CSS Tutorial
+
 ## Part 1: Link to .CSS file
 
 1. Open **accessories.html** and add following element in the **head** section.
