@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
+
+body {
+	/* background-color: black; */
+	/* to check if the CSS tile is linked */
+	background-color: #F4EEEE;	
+	font-family: 'Alegreya Sans', sans-serif;
+	margin: 0;
+}
+
+
+/* .container */
+.container {
+	/*border: 10px solid #000000;*/
+	width: 285px;
+	display: inline-block;
+	margin: 10px;
+	background-color: white;
+	padding: 60px;
+	box-shadow: 2px 6px 25px rgba(0,0,0,0.1);
+	border-radius: 20px;
+}
+
+.container * {
+	display: block;
+	margin: auto;
+}
+
+.container a {
+	display: inline;
+	text-decoration: none;
+}
+
+.container p {
+	padding: 30px 8px;
+
+}
+
+img {
+	display: block;
+	margin: auto;
+	padding-bottom: 40px;
+}
+
+.container form * {
+	display: inline;
+
+	text-align: left;
+}
+
+button {
+	padding: 15px 30px;
+	border-radius: 10px;
+
+	border: 0px;
+	background-color: #ffb0be;
+	box-shadow: 1px 4px 6px rgba(0,0,0,0.1);
+
+	color: white;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+button:hover {
+	box-shadow: 1px 4px 16px rgba(0,0,0,0.2);
+
+}
+
+.items-container{
+	text-align: center;
+}
+
+footer {
+	background-color: #394258; 
+	height: 70px;
+	text-align: center;
+	display: block;
+	padding-top: 90px;
+	color: lightgrey;
+}
+
