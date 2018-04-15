@@ -1,5 +1,7 @@
 # CSS Tutorial
 
+Feel free to check out the [slides](https://docs.google.com/presentation/d/1JNq8nGdHXat6GMdY6SzlzCN4mtup2vhZORiJ990PqwM/edit?usp=sharing) first before proceeding. 
+
 ## Part 1: Link to .CSS file
 
 1. Open **accessories.html** and add following element in the **head** section.
@@ -169,10 +171,6 @@
 
 
 ## Part 7: Redesigning the button
-
-> "The bigger the button, the more likely people will click it." 
-> 
-> Steve Jobs, 2004
 
 1. Now that the button is fixed, we can start adding some colors to it.
 2. First, add a **button** selector in **style.css**.
