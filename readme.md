@@ -1,6 +1,6 @@
 # CSS Tutorial
 
-Feel free to check out the [slides](https://docs.google.com/presentation/d/1JNq8nGdHXat6GMdY6SzlzCN4mtup2vhZORiJ990PqwM/edit?usp=sharing) first before proceeding. 
+Check out the [slides](https://docs.google.com/presentation/d/1JNq8nGdHXat6GMdY6SzlzCN4mtup2vhZORiJ990PqwM/edit?usp=sharing) first before proceeding. 
 
 ## Part 1: Link to .CSS file
 
