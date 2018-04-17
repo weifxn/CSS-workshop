@@ -31,7 +31,7 @@ Feel free to check out the [slides](https://docs.google.com/presentation/d/1JNq8
 
 	```html
 	<div class = "container">
-		<img src = "earrings.jpg" alt = "Diamon Earings">
+		<img src = "earrings.jpg" alt = "Diamond Earings">
 	```
 
 2. Close the container below the **Order button** element.
@@ -47,7 +47,7 @@ Feel free to check out the [slides](https://docs.google.com/presentation/d/1JNq8
 
 	```css
 	.container {
-		border: 10px solid #000000;
+		border: 10px solid block;
 		width: 285px;
 		padding: 60px;
 	}
@@ -98,14 +98,12 @@ Feel free to check out the [slides](https://docs.google.com/presentation/d/1JNq8
 3. Meanwhile, remove the colons ':' from the table labels.
 4. Now go back to **style.css**.
 5. Locate **container** class and set the **background-color** to white. 
-6. Add **padding** property and set it to 20px to have a gap between elements.
 7. Add **border-radius** property with a value of 20px to change the four corners of the card to rounded.
 
 	```css
 	.container {
 		...
 		background-color: white;
-		padding: 20px;
 		border-radius: 20px;
 	}
 	```
@@ -116,7 +114,7 @@ Feel free to check out the [slides](https://docs.google.com/presentation/d/1JNq8
 	```css
 	.container {
 		...
-		/*border: 10px solid #000000;*/
+		border: 1px solid white;
 		box-shadow: 2px 6px 25px rgba(0,0,0,0.1);
 	}
 	```
