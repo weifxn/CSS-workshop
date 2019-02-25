@@ -2,6 +2,8 @@
 
 Check out the [slides](https://docs.google.com/presentation/d/1JNq8nGdHXat6GMdY6SzlzCN4mtup2vhZORiJ990PqwM/edit?usp=sharing) first before proceeding. 
 
+![poster](https://scontent-kut2-2.xx.fbcdn.net/v/t1.0-9/30724226_2073600839334824_3108705559454114921_n.jpg?_nc_cat=103&_nc_ht=scontent-kut2-2.xx&oh=9792658d04eea90c5d4773fdda4fb163&oe=5D25BFB6)
+
 ## Part 1: Link to .CSS file
 
 1. Open **accessories.html** and add following element in the **head** section.
