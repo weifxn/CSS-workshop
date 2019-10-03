@@ -24,6 +24,7 @@ body {
 .container * {
 	display: block;
 	margin: auto;
+	padding: 10px;
 }
 
 .container a {
